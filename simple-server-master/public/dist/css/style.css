@@ -1,0 +1,35 @@
+#logo{width: 75px;
+	height: 75px;
+}
+ 
+ main{
+ 	background-color:#f3f1f3;
+}
+img{
+	width: 180px;
+	height: 150px;
+}
+nav h6{
+	color:green;
+}
+
+main h3 {
+	color:green;
+}
+
+p {
+	color:green;
+}
+
+ a:link, a:visited {
+ 	text-decoration: none;
+	color:green;
+}
+
+a:active {
+	text-decoration: none
+}
+
+#assinature{
+	 color: #007bff;
+}
